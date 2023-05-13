@@ -1,0 +1,31 @@
+.item-card {
+  display: flex;
+  margin-bottom: 20px;
+  margin-top: 25px;
+  border: 1px solid #d3d3d3;
+  padding: 30px;
+}
+.image-icon {
+  margin-right: 10px;
+  height: 140px;
+  width: 80%;
+  border-radius: 15px;
+}
+.profile-card {
+  display: flex;
+}
+.profile-icon {
+  margin-right: 10px;
+  margin-top: 15px;
+  height: 30px;
+  border-radius: 24px;
+}
+.item-heading {
+  font-size: 20px;
+}
+.image-card {
+  width: 50%;
+}
+.nav-link-icon {
+  border: 1px solid #d3d3d3;
+}

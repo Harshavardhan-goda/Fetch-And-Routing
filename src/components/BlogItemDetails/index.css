@@ -1,0 +1,18 @@
+.profile-detail-card {
+  display: flex;
+}
+.profile-detail-icon {
+  margin-right: 10px;
+  margin-top: 15px;
+  height: 30px;
+  border-radius: 24px;
+}
+
+.item-img {
+  height: 200px;
+  border-radius: 15px;
+  width: 80%;
+}
+.card {
+  padding: 20px;
+}
